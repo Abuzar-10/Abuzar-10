@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning<br>
+I'M Currently Learning<br>
 
 
 ## 🌐 Socials:
