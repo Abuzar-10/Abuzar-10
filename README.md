@@ -17,12 +17,6 @@
 
 ---
 
-## 📚 Currently Working On
-
-- Student Management System (Java)
-
----
-
 ## 🌐 Connect With Me
 
 - X (Twitter): https://x.com/Shk_Abuzar10
