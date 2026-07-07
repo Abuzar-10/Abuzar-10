@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 BCA Student (AI/ML Specialization)
+- 🎓 BCA Student 
 - 🌱 Currently learning Java
 - 💻 Interested in Software Engineering
 - 🚀 Building projects and improving my programming skills
