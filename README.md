@@ -18,8 +18,6 @@
 ---
 
 ## 🌐 Connect With Me
-
-- X (Twitter): https://x.com/Shk_Abuzar11
 - 
 - Email: abushk52@gmail.com
 
